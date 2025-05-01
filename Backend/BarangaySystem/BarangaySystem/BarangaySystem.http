@@ -1,0 +1,6 @@
+@BarangaySystem_HostAddress = http://localhost:5253
+
+GET {{BarangaySystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

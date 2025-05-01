@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "BarangaySystem.Controllers.EducationController",
+    "Method": "getEducation",
+    "RelativePath": "api/Education",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarangaySystem.Controllers.ResidentController",
+    "Method": "getResidents",
+    "RelativePath": "api/Resident",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarangaySystem.Controllers.ResidentController",
+    "Method": "createResident",
+    "RelativePath": "api/Resident",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addResidentDTO",
+        "Type": "BarangaySystem.Model.DTO.AddResidentDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarangaySystem.Controllers.ResidentController",
+    "Method": "getResidentById",
+    "RelativePath": "api/Resident/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarangaySystem.Controllers.ResidentController",
+    "Method": "editResident",
+    "RelativePath": "api/Resident/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "editResidentDTO",
+        "Type": "BarangaySystem.Model.DTO.EditResidentDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarangaySystem.Controllers.ResidentController",
+    "Method": "deleteEmployee",
+    "RelativePath": "api/Resident/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,214 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "BarangaySystem",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Education": {
+      "get": {
+        "tags": [
+          "Education"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Resident": {
+      "get": {
+        "tags": [
+          "Resident"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Resident"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddResidentDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddResidentDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddResidentDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Resident/{id}": {
+      "get": {
+        "tags": [
+          "Resident"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "patch": {
+        "tags": [
+          "Resident"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EditResidentDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EditResidentDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/EditResidentDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Resident"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AddResidentDTO": {
+        "required": [
+          "residentAddress",
+          "residentName"
+        ],
+        "type": "object",
+        "properties": {
+          "residentName": {
+            "type": "string",
+            "nullable": true
+          },
+          "residentAddress": {
+            "type": "string",
+            "nullable": true
+          },
+          "residentDOB": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "residentGender": {
+            "type": "string",
+            "nullable": true
+          },
+          "residentEducation": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "EditResidentDTO": {
+        "required": [
+          "residentAddress",
+          "residentName"
+        ],
+        "type": "object",
+        "properties": {
+          "residentName": {
+            "type": "string",
+            "nullable": true
+          },
+          "residentAddress": {
+            "type": "string",
+            "nullable": true
+          },
+          "residentDOB": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "residentGender": {
+            "type": "string",
+            "nullable": true
+          },
+          "residentEducation": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

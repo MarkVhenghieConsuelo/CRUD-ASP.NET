@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MainPortFolio\\Visual Studio Projects\\BarangaySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA6C570-58A7-4087-841D-9FDCA5944D0A}|BarangaySystem\\BarangaySystem.csproj|e:\\mainportfolio\\visual studio projects\\barangaysystem\\barangaysystem\\controllers\\residentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA6C570-58A7-4087-841D-9FDCA5944D0A}|BarangaySystem\\BarangaySystem.csproj|solutionrelative:barangaysystem\\controllers\\residentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA6C570-58A7-4087-841D-9FDCA5944D0A}|BarangaySystem\\BarangaySystem.csproj|e:\\mainportfolio\\visual studio projects\\barangaysystem\\barangaysystem\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA6C570-58A7-4087-841D-9FDCA5944D0A}|BarangaySystem\\BarangaySystem.csproj|solutionrelative:barangaysystem\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA6C570-58A7-4087-841D-9FDCA5944D0A}|BarangaySystem\\BarangaySystem.csproj|e:\\mainportfolio\\visual studio projects\\barangaysystem\\barangaysystem\\model\\dto\\editresidentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA6C570-58A7-4087-841D-9FDCA5944D0A}|BarangaySystem\\BarangaySystem.csproj|solutionrelative:barangaysystem\\model\\dto\\editresidentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA6C570-58A7-4087-841D-9FDCA5944D0A}|BarangaySystem\\BarangaySystem.csproj|e:\\mainportfolio\\visual studio projects\\barangaysystem\\barangaysystem\\model\\entities\\resident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA6C570-58A7-4087-841D-9FDCA5944D0A}|BarangaySystem\\BarangaySystem.csproj|solutionrelative:barangaysystem\\model\\entities\\resident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA6C570-58A7-4087-841D-9FDCA5944D0A}|BarangaySystem\\BarangaySystem.csproj|e:\\mainportfolio\\visual studio projects\\barangaysystem\\barangaysystem\\model\\entities\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA6C570-58A7-4087-841D-9FDCA5944D0A}|BarangaySystem\\BarangaySystem.csproj|solutionrelative:barangaysystem\\model\\entities\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA6C570-58A7-4087-841D-9FDCA5944D0A}|BarangaySystem\\BarangaySystem.csproj|e:\\mainportfolio\\visual studio projects\\barangaysystem\\barangaysystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA6C570-58A7-4087-841D-9FDCA5944D0A}|BarangaySystem\\BarangaySystem.csproj|solutionrelative:barangaysystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA6C570-58A7-4087-841D-9FDCA5944D0A}|BarangaySystem\\BarangaySystem.csproj|e:\\mainportfolio\\visual studio projects\\barangaysystem\\barangaysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA6C570-58A7-4087-841D-9FDCA5944D0A}|BarangaySystem\\BarangaySystem.csproj|solutionrelative:barangaysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA6C570-58A7-4087-841D-9FDCA5944D0A}|BarangaySystem\\BarangaySystem.csproj|e:\\mainportfolio\\visual studio projects\\barangaysystem\\barangaysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DA6C570-58A7-4087-841D-9FDCA5944D0A}|BarangaySystem\\BarangaySystem.csproj|solutionrelative:barangaysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResidentController.cs",
+              "DocumentMoniker": "E:\\MainPortFolio\\Visual Studio Projects\\BarangaySystem\\BarangaySystem\\Controllers\\ResidentController.cs",
+              "RelativeDocumentMoniker": "BarangaySystem\\Controllers\\ResidentController.cs",
+              "ToolTip": "E:\\MainPortFolio\\Visual Studio Projects\\BarangaySystem\\BarangaySystem\\Controllers\\ResidentController.cs",
+              "RelativeToolTip": "BarangaySystem\\Controllers\\ResidentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:21:04.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditResidentDTO.cs",
+              "DocumentMoniker": "E:\\MainPortFolio\\Visual Studio Projects\\BarangaySystem\\BarangaySystem\\Model\\DTO\\EditResidentDTO.cs",
+              "RelativeDocumentMoniker": "BarangaySystem\\Model\\DTO\\EditResidentDTO.cs",
+              "ToolTip": "E:\\MainPortFolio\\Visual Studio Projects\\BarangaySystem\\BarangaySystem\\Model\\DTO\\EditResidentDTO.cs",
+              "RelativeToolTip": "BarangaySystem\\Model\\DTO\\EditResidentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:10:58.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "E:\\MainPortFolio\\Visual Studio Projects\\BarangaySystem\\BarangaySystem\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "BarangaySystem\\Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "E:\\MainPortFolio\\Visual Studio Projects\\BarangaySystem\\BarangaySystem\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "BarangaySystem\\Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:18:13.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Education.cs",
+              "DocumentMoniker": "E:\\MainPortFolio\\Visual Studio Projects\\BarangaySystem\\BarangaySystem\\Model\\Entities\\Education.cs",
+              "RelativeDocumentMoniker": "BarangaySystem\\Model\\Entities\\Education.cs",
+              "ToolTip": "E:\\MainPortFolio\\Visual Studio Projects\\BarangaySystem\\BarangaySystem\\Model\\Entities\\Education.cs",
+              "RelativeToolTip": "BarangaySystem\\Model\\Entities\\Education.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:16:14.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resident.cs",
+              "DocumentMoniker": "E:\\MainPortFolio\\Visual Studio Projects\\BarangaySystem\\BarangaySystem\\Model\\Entities\\Resident.cs",
+              "RelativeDocumentMoniker": "BarangaySystem\\Model\\Entities\\Resident.cs",
+              "ToolTip": "E:\\MainPortFolio\\Visual Studio Projects\\BarangaySystem\\BarangaySystem\\Model\\Entities\\Resident.cs",
+              "RelativeToolTip": "BarangaySystem\\Model\\Entities\\Resident.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:11:48.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MainPortFolio\\Visual Studio Projects\\BarangaySystem\\BarangaySystem\\appsettings.json",
+              "RelativeDocumentMoniker": "BarangaySystem\\appsettings.json",
+              "ToolTip": "E:\\MainPortFolio\\Visual Studio Projects\\BarangaySystem\\BarangaySystem\\appsettings.json",
+              "RelativeToolTip": "BarangaySystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T11:07:05.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\MainPortFolio\\Visual Studio Projects\\BarangaySystem\\BarangaySystem\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BarangaySystem\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\MainPortFolio\\Visual Studio Projects\\BarangaySystem\\BarangaySystem\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BarangaySystem\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:02:11.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MainPortFolio\\Visual Studio Projects\\BarangaySystem\\BarangaySystem\\Program.cs",
+              "RelativeDocumentMoniker": "BarangaySystem\\Program.cs",
+              "ToolTip": "E:\\MainPortFolio\\Visual Studio Projects\\BarangaySystem\\BarangaySystem\\Program.cs",
+              "RelativeToolTip": "BarangaySystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:01:22.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
